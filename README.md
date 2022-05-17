@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hello! I'm Podter 👋
+I'm a guy that nobody know. I love messing around with Roblox Lua and random JavaScript codes.
 
+https://podter.xyz
 <!--
 **Podter/Podter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
