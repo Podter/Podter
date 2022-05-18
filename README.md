@@ -16,4 +16,6 @@ I'm a guy that nobody know. I love messing around with Roblox Lua and random Jav
     <img alt="Podter's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=podter&line_height=27&show_icons=true&count_private=true&bg_color=161320&text_color=D9E0EE&icon_color=F28FAD&title_color=F28FAD">
 </p>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/Podter/Podter/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Podter/Podter/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 https://podter.xyz
