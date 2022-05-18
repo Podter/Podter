@@ -2,12 +2,8 @@
 
 I'm a guy that nobody know. I love messing around with Roblox Lua and random JavaScript codes.
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=podter&bg_color=161320&text_color=D9E0EE&icon_color=F28FAD&title_color=F28FAD&langs_count=3" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=podter&line_height=27&show_icons=true&count_private=true&bg_color=161320&text_color=D9E0EE&icon_color=F28FAD&title_color=F28FAD">
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=podter&bg_color=161320&text_color=D9E0EE&icon_color=F28FAD&title_color=F28FAD&langs_count=3)
+![Podter's GitHub stats](https://github-readme-stats.vercel.app/api?username=podter&line_height=27&show_icons=true&count_private=true&bg_color=161320&text_color=D9E0EE&icon_color=F28FAD&title_color=F28FAD)
 
 https://podter.xyz
 <!--
