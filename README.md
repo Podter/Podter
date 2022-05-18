@@ -1,8 +1,17 @@
-![Podter, A human lives in Thailand on Earth!](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=A%20human%20lives%20in%20Thailand%20on%20Earth%21&title=Podter)
+[![Podter, A human lives in Thailand on Earth!](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=A%20human%20lives%20in%20Thailand%20on%20Earth%21&title=Podter)](https://podter.xyz)
 <p align="center">
-    <img alt="Discord" src="https://dcbadge.vercel.app/api/shield/331793642689789962?compact=true&theme=blurple">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/Real_Podter?label=Twitter&logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1DA1F2&logoColor=white">
-    <img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCjeDmcOZMGxqsvOmQXLN1qQ?logo=youtube&style=for-the-badge&label=Youtube&color=FF0000&labelColor=FF0000&logoColor=white">
+    <a href="https://discord.com/users/331793642689789962">
+        <img alt="Discord" src="https://dcbadge.vercel.app/api/shield/331793642689789962?compact=true&theme=blurple">
+    </a>
+    <a href="https://twitter.com/Real_Podter">
+        <img alt="Twitter" src="https://img.shields.io/twitter/follow/Real_Podter?label=Twitter&logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1DA1F2&logoColor=white">
+    </a>
+    <a href="https://www.youtube.com/channel/UCjeDmcOZMGxqsvOmQXLN1qQ">
+        <img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCjeDmcOZMGxqsvOmQXLN1qQ?logo=youtube&style=for-the-badge&label=Youtube&color=FF0000&labelColor=FF0000&logoColor=white">
+    </a>
+    <a href=https://podter.xyz/">
+        <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+    </a>
 </p>
 
 <p align="center">
@@ -17,5 +26,3 @@ I'm a guy that nobody know. I love messing around with Roblox Lua and random Jav
 </p>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Podter/Podter/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Podter/Podter/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-https://podter.xyz
