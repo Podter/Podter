@@ -14,7 +14,7 @@ jobs:
       # wakatime
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
       # snake
       - uses: Platane/snk@v2.0.0-rc.1
