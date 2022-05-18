@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F28FAD&height=300&section=header&text=Podter&fontColor=161320&fontSize=90&desc=A%20human%20lives%20in%20Thailand%20on%20Earth!)
+[![Podter, A human lives in Thailand on Earth!](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=A%20human%20lives%20in%20Thailand%20on%20Earth%21&title=Podter)](https://pimp-my-readme.webapp.io)
+
 I'm a guy that nobody know. I love messing around with Roblox Lua and random JavaScript codes.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=podter)](https://github.com/anuraghazra/github-readme-stats)
 ![Podter's GitHub stats](https://github-readme-stats.vercel.app/api?username=podter&show_icons=true&count_private=true&bg_color=161320&text_color=D9E0EE&icon_color=F28FAD&title_color=F28FAD)
 
 https://podter.xyz
@@ -17,4 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://img.shields.io/youtube/channel/subscribers/UCjeDmcOZMGxqsvOmQXLN1qQ?logo=youtube&style=for-the-badge&label=Youtube&color=FF0000&labelColor=FF0000&logoColor=white
+https://img.shields.io/twitter/follow/Real_Podter?label=Twitter&logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1DA1F2&logoColor=white
+https://dcbadge.vercel.app/api/shield/331793642689789962?compact=true&theme=blurple
 -->
