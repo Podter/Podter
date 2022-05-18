@@ -9,7 +9,7 @@
     <a href="https://www.youtube.com/channel/UCjeDmcOZMGxqsvOmQXLN1qQ">
         <img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCjeDmcOZMGxqsvOmQXLN1qQ?logo=youtube&style=for-the-badge&label=Youtube&color=FF0000&labelColor=FF0000&logoColor=white">
     </a>
-    <a href=https://podter.xyz/">
+    <a href="https://podter.xyz/">
         <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
     </a>
 </p>
