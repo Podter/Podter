@@ -1,4 +1,4 @@
-# Hello! I'm Podter 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=F28FAD&height=300&section=header&text=Podter&fontSize=90)
 I'm a guy that nobody know. I love messing around with Roblox Lua and random JavaScript codes.
 
 ![Podter's GitHub stats](https://github-readme-stats.vercel.app/api?username=podter&show_icons=true&count_private=true&bg_color=161320&text_color=D9E0EE&icon_color=F28FAD&title_color=F28FAD)
