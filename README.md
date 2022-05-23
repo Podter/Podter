@@ -30,5 +30,17 @@
 
 <p align="center">
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+
+```text
+Total Time: 1 hr 35 mins
+
+Dart         32 mins         ████████▒░░░░░░░░░░░░░░░░   33.95 %
+Markdown     29 mins         ████████░░░░░░░░░░░░░░░░░   31.54 %
+YAML         24 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.94 %
+JavaScript   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Batchfile    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+```
+
+<!--END_SECTION:waka-->
 </p>
