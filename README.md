@@ -24,8 +24,8 @@
 </p>
 
 <p align="center">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Podter/Podter/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Podter/Podter/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Podter/Podter/output/github-snake.svg#gh-dark-mode-only">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Podter/Podter/output/github-snake.svg#gh-light-mode-only">
 </p>
 
 <p align="center">
