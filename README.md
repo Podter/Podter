@@ -1,4 +1,9 @@
-[![Podter, A human lives in Thailand on Earth!](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=A%20human%20lives%20in%20Thailand%20on%20Earth%21&title=Podter)](https://podter.xyz)
+<p align="center">
+    <a href="https://podter.xyz">
+        <img alt="Podter, A human lives in Thailand on Earth!" src="https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=A%20human%20lives%20in%20Thailand%20on%20Earth%21&title=Podter">
+    </a>
+</p>
+
 <p align="center">
     <a href="https://discord.com/users/331793642689789962">
         <img alt="Discord" src="https://dcbadge.vercel.app/api/shield/331793642689789962?compact=true&theme=blurple">
@@ -24,7 +29,7 @@
 </p>
 
 <p align="center">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Podter/Podter/output/github-snake.svg#gh-dark-mode-only">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Podter/Podter/output/github-snake-dark.svg#gh-dark-mode-only">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Podter/Podter/output/github-snake.svg#gh-light-mode-only">
 </p>
 
