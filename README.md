@@ -37,14 +37,14 @@
     <!--START_SECTION:waka-->
 
 ```text
-Total Time: 3 hrs 13 mins
+Total Time: 5 hrs 8 mins
 
-YAML         1 hr 7 mins     ████████▓░░░░░░░░░░░░░░░░   34.56 %
-Markdown     1 hr 2 mins     ████████░░░░░░░░░░░░░░░░░   31.76 %
-Dart         32 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
-Vue.js       13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-Git Config   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-JavaScript   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Markdown     1 hr 23 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.13 %
+YAML         1 hr 7 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.35 %
+Vue.js       1 hr 7 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
+Dart         32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+JavaScript   26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+JSON         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
 ```
 
 <!--END_SECTION:waka-->
