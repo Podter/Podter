@@ -37,11 +37,12 @@
     <!--START_SECTION:waka-->
 
 ```text
-Total Time: 0 secs
+Total Time: 1 hr 24 mins
 
-YAML       0 secs          ██████████████████████▒░░   89.38 %
-Markdown   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Bash         39 mins         ███████████▓░░░░░░░░░░░░░   46.40 %
+Docker       32 mins         █████████▓░░░░░░░░░░░░░░░   38.66 %
+JSON         11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
