@@ -37,14 +37,13 @@
     <!--START_SECTION:waka-->
 
 ```text
-Total Time: 3 hrs 56 mins
+Total Time: 2 hrs 14 mins
 
-Docker                     1 hr 17 mins    ████████░░░░░░░░░░░░░░░░░   31.72 %
-YAML                       37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
-Markdown                   19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-Text                       18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-Bash                       18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-HTML                       14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+Docker                     45 mins         ████████░░░░░░░░░░░░░░░░░   31.88 %
+Bash                       18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
+HTML                       14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+Nginx configuration file   11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+Other                      8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
 ```
 
 <!--END_SECTION:waka-->
