@@ -37,13 +37,7 @@
     <!--START_SECTION:waka-->
 
 ```text
-Total Time: 2 hrs 20 mins
-
-TypeScript   1 hr 54 mins    █████████▓░░░░░░░░░░░░░░░   39.06 %
-Lua          1 hr 49 mins    █████████▒░░░░░░░░░░░░░░░   37.30 %
-YAML         26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
-TOML         20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-Other        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
