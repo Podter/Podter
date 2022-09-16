@@ -37,14 +37,14 @@
     <!--START_SECTION:waka-->
 
 ```text
-Total Time: 6 hrs 41 mins
+Total Time: 6 hrs 37 mins
 
-TypeScript   3 hrs 20 mins   ████████████▒░░░░░░░░░░░░   49.52 %
-JavaScript   1 hr 9 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.18 %
-JSON         33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-TOML         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
-Bash         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-PowerShell   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+TypeScript   3 hrs 57 mins   ███████████████░░░░░░░░░░   59.40 %
+JSON         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+TOML         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+JavaScript   24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+Bash         19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+PowerShell   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
 ```
 
 <!--END_SECTION:waka-->
