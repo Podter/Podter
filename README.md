@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://podter.xyz">
-        <img alt="Podter, A human lives in Thailand on Earth!" src="https://pimp-my-readme.podter.xyz/pimp-my-readme/wavy-banner?subtitle=A%20human%20lives%20in%20Thailand%20on%20Earth%21&title=Podter">
+        <img alt="Podter, A human lives in Thailand on Earth!" src="https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=A%20human%20lives%20in%20Thailand%20on%20Earth%21&title=Podter">
     </a>
 </p>
 
