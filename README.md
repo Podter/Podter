@@ -37,12 +37,10 @@
     <!--START_SECTION:waka-->
 
 ```text
-Total Time: 2 hrs 58 mins
+Total Time: 1 hr 42 mins
 
-TypeScript   2 hrs 43 mins   ██████████████████████▒░░   89.62 %
-Docker       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-Bash         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Other        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+TypeScript   1 hr 39 mins    ███████████████████████▓░   94.64 %
+Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 ```
 
 <!--END_SECTION:waka-->
