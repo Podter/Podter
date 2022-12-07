@@ -37,11 +37,11 @@
     <!--START_SECTION:waka-->
 
 ```text
-Total Time: 6 hrs 27 mins
+Total Time: 8 hrs 54 mins
 
-YAML         2 hrs 13 mins   ███████▓░░░░░░░░░░░░░░░░░   30.26 %
-Bash         1 hr 34 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.55 %
-Other        52 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
+Bash              3 hrs 11 mins   ███████▒░░░░░░░░░░░░░░░░░   28.92 %
+YAML              2 hrs 10 mins   █████░░░░░░░░░░░░░░░░░░░░   19.74 %
+Other             2 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.20 %
 ```
 
 <!--END_SECTION:waka-->
