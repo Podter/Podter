@@ -37,9 +37,10 @@
     <!--START_SECTION:waka-->
 
 ```text
-Total Time: 10 hrs 52 mins
+Total Time: 8 hrs 45 mins
 
-Other        4 hrs 34 mins   ███████▒░░░░░░░░░░░░░░░░░   29.60 %
+RPMSpec      4 hrs 4 mins    ████████░░░░░░░░░░░░░░░░░   32.06 %
+Other        3 hrs 56 mins   ███████▓░░░░░░░░░░░░░░░░░   31.04 %
 ```
 
 <!--END_SECTION:waka-->
