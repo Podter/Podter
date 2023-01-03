@@ -37,13 +37,14 @@
     <!--START_SECTION:waka-->
 
 ```text
-Total Time: 26 hrs 8 mins
+Total Time: 29 hrs 4 mins
 
-TypeScript            16 hrs 57 mins  ███████████████▓░░░░░░░░░   63.06 %
-JSON                  2 hrs 42 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
-YAML                  2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-Rust                  1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-Other                 45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+TypeScript      18 hrs 18 mins  ███████████████▒░░░░░░░░░   61.99 %
+JSON            3 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
+YAML            2 hrs 42 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+Rust            1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+TOML            35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+WiX Installer   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
