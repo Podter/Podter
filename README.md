@@ -37,14 +37,12 @@
     <!--START_SECTION:waka-->
 
 ```text
-Total Time: 23 hrs 15 mins
+Total Time: 24 hrs 34 mins
 
-Dart         9 hrs 18 mins   █████████▓░░░░░░░░░░░░░░░   38.21 %
-YAML         6 hrs 3 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.89 %
-TypeScript   4 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
-Bash         1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
-JSON         1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-Other        1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Dart         9 hrs 5 mins    ████████▓░░░░░░░░░░░░░░░░   34.88 %
+YAML         6 hrs 58 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.75 %
+TypeScript   4 hrs 25 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
+Other        1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
 ```
 
 <!--END_SECTION:waka-->
