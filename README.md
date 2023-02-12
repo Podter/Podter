@@ -1,26 +1,26 @@
 <p align="center">
     <a href="https://podter.xyz">
-        <img alt="Podter, A human lives in Thailand on Earth!" src="https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=A%20human%20lives%20in%20Thailand%20on%20Earth%21&title=Podter">
+        <img alt="Podter, A student and self taught developer from Thailand." src="https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=A%20student%20and%20self%20taught%20developer%20from%20Thailand.&title=Podter">
     </a>
 </p>
 
 <p align="center">
+    <a href="https://podter.xyz/">
+        <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+    </a>
     <a href="https://discord.com/users/331793642689789962">
         <img alt="Discord" src="https://dcbadge.vercel.app/api/shield/331793642689789962?compact=true&theme=blurple">
     </a>
     <a href="https://twitter.com/Real_Podter">
         <img alt="Twitter" src="https://img.shields.io/twitter/follow/Real_Podter?label=Twitter&logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1DA1F2&logoColor=white">
     </a>
-    <a href="https://www.youtube.com/channel/UCjeDmcOZMGxqsvOmQXLN1qQ">
-        <img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCjeDmcOZMGxqsvOmQXLN1qQ?logo=youtube&style=for-the-badge&label=Youtube&color=FF0000&labelColor=FF0000&logoColor=white">
-    </a>
-    <a href="https://podter.xyz/">
-        <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+    <a href="mailto:me@podter.xyz">
+        <img alt="Twitter" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=lua,nodejs,ts,js,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=bash,cloudflare,css,docker,express,git,github,html,js,linux,lua,md,next,nodejs,prisma,react,raspberrypi,tailwind,ts,vite,vscode,tauri,stackoverflow,svelte,planetscale,mysql,mongodb&perline=9" />
 </p>
 
 <p align="center">
