@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://podter.xyz">
-        <img alt="Podter, A student and self taught developer from Thailand." src="https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=A%20student%20and%20self%20taught%20developer%20from%20Thailand.&title=Podter">
+        <img alt="Podter, A student and self taught developer from Thailand." src="https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=A%20student%20and%20self-taught%20developer%20from%20Thailand.&title=Podter">
     </a>
 </p>
 
