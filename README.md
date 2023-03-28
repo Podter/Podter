@@ -37,13 +37,14 @@
     <!--START_SECTION:waka-->
 
 ```text
-Total Time: 23 hrs 17 mins
+Total Time: 21 hrs 24 mins
 
-TypeScript                 17 hrs 42 mins  ██████████████████▓░░░░░░   74.56 %
-YAML                       2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-MDX                        41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-CSS                        39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-Other                      27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+TypeScript                 17 hrs 42 mins  ████████████████████▒░░░░   81.08 %
+YAML                       58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+MDX                        41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+CSS                        39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Nginx configuration file   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Other                      25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 ```
 
 <!--END_SECTION:waka-->
