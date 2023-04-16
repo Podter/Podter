@@ -37,14 +37,14 @@
     <!--START_SECTION:waka-->
 
 ```text
-Total Time: 20 hrs 55 mins
+Total Time: 20 hrs 47 mins
 
-Kotlin           7 hrs 17 mins   ████████▒░░░░░░░░░░░░░░░░   33.81 %
-TypeScript       4 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
-MDX              2 hrs 58 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
-Python           1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-JSON             1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-PowerShell       54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+Kotlin           7 hrs 17 mins   ████████▓░░░░░░░░░░░░░░░░   34.03 %
+TypeScript       4 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
+MDX              2 hrs 58 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
+Python           1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+JSON             1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+PowerShell       54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
 ```
 
 <!--END_SECTION:waka-->
