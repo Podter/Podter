@@ -1,11 +1,11 @@
 <p align="center">
-    <a href="https://podter.xyz">
+    <a href="https://podter.me">
         <img alt="Podter, A student and self taught developer from Thailand." src="https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=A%20student%20and%20self-taught%20developer%20from%20Thailand.&title=Podter">
     </a>
 </p>
 
 <p align="center">
-    <a href="https://podter.xyz/">
+    <a href="https://podter.me/">
         <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
     </a>
     <a href="https://discord.com/users/331793642689789962">
@@ -14,7 +14,7 @@
     <a href="https://twitter.com/Real_Podter">
         <img alt="Twitter" src="https://img.shields.io/twitter/follow/Real_Podter?label=Twitter&logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1DA1F2&logoColor=white">
     </a>
-    <a href="mailto:me@podter.xyz">
+    <a href="mailto:hello@podter.me">
         <img alt="Twitter" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </p>
