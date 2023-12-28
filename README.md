@@ -37,13 +37,9 @@
     <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 50 mins
+Total Time: 1 hr 40 mins
 
-C#         1 hr 40 mins    ████████████████████▓░░░░   82.16 %
-Other      12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
-Bash       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+C#   1 hr 40 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
