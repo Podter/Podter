@@ -37,9 +37,9 @@
     <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 50 mins
+Total Time: 0 secs
 
-C#   50 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
