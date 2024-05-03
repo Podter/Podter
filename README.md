@@ -37,13 +37,13 @@
     <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 34 hrs 48 mins
+Total Time: 33 hrs 11 mins
 
-TypeScript    18 hrs 17 mins  ████████████▓░░░░░░░░░░░░   51.05 %
-Astro         6 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
-JavaScript    2 hrs 37 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
-JSON          2 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-MDX           1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+TypeScript    17 hrs 20 mins  ████████████▓░░░░░░░░░░░░   50.74 %
+Astro         6 hrs           ████▒░░░░░░░░░░░░░░░░░░░░   17.56 %
+JSON          2 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+JavaScript    2 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+MDX           1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
 ```
 
 <!--END_SECTION:waka-->
