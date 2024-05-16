@@ -37,13 +37,13 @@
     <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 19 hrs 23 mins
+Total Time: 13 hrs 59 mins
 
-TypeScript    9 hrs 1 min     ███████████▒░░░░░░░░░░░░░   44.80 %
-Svelte        3 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
-YAML          2 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
-JavaScript    1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-Other         44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+TypeScript    6 hrs 3 mins    ██████████▓░░░░░░░░░░░░░░   42.64 %
+Svelte        2 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   19.62 %
+YAML          1 hr 53 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
+JavaScript    1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Python        42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
 ```
 
 <!--END_SECTION:waka-->
