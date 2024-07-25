@@ -37,10 +37,10 @@
     <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 11 mins
+Total Time: 3 hrs 1 min
 
-Other          21 hrs 45 mins  █████████████████████▓░░░   87.20 %
-sh             3 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
+Other          22 hrs 8 mins   ██████████████████████░░░   87.99 %
+sh             3 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
 TypeScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 Figma Design   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
