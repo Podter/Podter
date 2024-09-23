@@ -37,11 +37,10 @@
     <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 49 mins
+Total Time: 1 hr 34 mins
 
-Other          14 hrs 17 mins  ██████████████████████▒░░   88.70 %
-sh             1 hr 49 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-Figma Design   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other   7 hrs 45 mins   ████████████████████▓░░░░   83.15 %
+sh      1 hr 34 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.85 %
 ```
 
 <!--END_SECTION:waka-->
