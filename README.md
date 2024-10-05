@@ -37,11 +37,11 @@
     <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 7 mins
+Total Time: 7 hrs 28 mins
 
-Other          19 hrs 21 mins  ███████████████████░░░░░░   75.95 %
-sh             6 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   23.86 %
-Canva Design   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Other          15 hrs 50 mins  █████████████████░░░░░░░░   67.96 %
+sh             7 hrs 25 mins   ████████░░░░░░░░░░░░░░░░░   31.84 %
+Canva Design   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
