@@ -37,11 +37,13 @@
     <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 16 hrs 25 mins
+Total Time: 17 hrs 38 mins
 
-sh            16 hrs 16 mins  ████████████████████████░   95.69 %
-Other         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-Image (svg)   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+sh            16 hrs 58 mins  ██████████████████▒░░░░░░   73.65 %
+Other         5 hrs 24 mins   ██████░░░░░░░░░░░░░░░░░░░   23.43 %
+Image (svg)   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+TypeScript    16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+TSX           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
