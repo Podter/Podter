@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # wakatime
-      - uses: athul/waka-readme@master
+      - uses: athul/waka-readme@v0
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ github.token }}
@@ -28,7 +28,7 @@ jobs:
             dist/snake-dark.svg?color_snake=#ffffff&color_dots=#262626,#525252,#a3a3a3,#e5e5e5,#ffffff
 
       # push
-      - uses: crazy-max/ghaction-github-pages@v2.6.0
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

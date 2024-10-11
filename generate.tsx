@@ -9,7 +9,7 @@ const markdown = `${render(<Header />)}
 
 ${render(<Socials />)}
 
-#
+---
 
 ${render(<GitHubStats />)}
 
