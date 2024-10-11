@@ -10,5 +10,16 @@
 
 <div align="left">
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 17 hrs 11 mins
+
+sh            15 hrs 36 mins  ███████████████░░░░░░░░░░   60.59 %
+Other         8 hrs 34 mins   ████████▒░░░░░░░░░░░░░░░░   33.29 %
+TSX           26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Image (svg)   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+JavaScript    21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+```
+
 <!--END_SECTION:waka-->
 </div>
