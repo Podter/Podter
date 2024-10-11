@@ -4,6 +4,8 @@
     </a>
 </div>
 
+#
+
 <div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=podter&show_icons=true&count_private=true&bg_color=171717&text_color=d4d4d4&icon_color=d4d4d4&title_color=fafafa&ring_color=fafafa&hide_border=true&border_radius=0" />
@@ -25,7 +27,7 @@
     </picture>
 </div>
 
-<div align="center">
+<div align="left">
     <!--START_SECTION:waka-->
 
 ```txt
