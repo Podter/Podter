@@ -12,12 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 41 mins
+Total Time: 2 hrs 7 mins
 
-TypeScript   37 mins         ██████████████████████▓░░   90.48 %
-JSON         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-TSConfig     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+TypeScript   42 mins         ████████▒░░░░░░░░░░░░░░░░   32.94 %
+Astro        31 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.73 %
+Svelte       15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
+JSON         11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+Batchfile    10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
 ```
 
 <!--END_SECTION:waka-->
