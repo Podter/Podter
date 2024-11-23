@@ -16,11 +16,11 @@ const SOCIALS = {
       dark: "discord",
     },
   },
-  Twitter: {
-    href: "https://x.com/Real_Podter",
+  Bluesky: {
+    href: "https://bsky.app/profile/podter.me",
     logo: {
-      light: "x",
-      dark: "x",
+      light: "bluesky",
+      dark: "bluesky",
     },
   },
   Email: {
