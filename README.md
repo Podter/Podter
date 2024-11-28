@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11 hrs 16 mins
+Total Time: 8 hrs 47 mins
 
-TypeScript   9 hrs 29 mins   ████████████████████▓░░░░   83.11 %
-Svelte       37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
-Astro        27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-JavaScript   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+TypeScript   7 hrs 10 mins   ████████████████████░░░░░   80.05 %
+Svelte       37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+Astro        27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+JavaScript   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 <!--END_SECTION:waka-->
