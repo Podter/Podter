@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 28 hrs 34 mins
+Total Time: 19 hrs 43 mins
 
-TypeScript    12 hrs 54 mins  ███████████▒░░░░░░░░░░░░░   45.03 %
-Astro         7 hrs 39 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.69 %
-Markdown      2 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
-YAML          1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-JSON          1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+TypeScript    10 hrs 4 mins   ████████████▓░░░░░░░░░░░░   50.95 %
+Astro         3 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
+Markdown      2 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
+JSON          1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+YAML          1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
 ```
 
 <!--END_SECTION:waka-->
