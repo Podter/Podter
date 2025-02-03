@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 43 hrs 24 mins
+Total Time: 36 hrs 23 mins
 
-TypeScript    33 hrs 53 mins  ███████████████████▒░░░░░   77.88 %
-Python        2 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-JSON          1 hr 25 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-Astro         1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-JavaScript    47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+TypeScript   29 hrs 55 mins  ████████████████████▓░░░░   82.04 %
+Astro        1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Python       59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Docker       47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Bash         41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
