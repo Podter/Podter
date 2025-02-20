@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 44 mins
+Total Time: 6 hrs 8 mins
 
-TypeScript       6 hrs 25 mins   ██████████████████▒░░░░░░   73.18 %
-C#               1 hr 16 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
-Markdown         36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-JSON             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Docker           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+TypeScript   3 hrs 55 mins   ████████████████░░░░░░░░░   63.66 %
+C#           1 hr 10 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.10 %
+Markdown     36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
+JSON         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+Docker       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 ```
 
 <!--END_SECTION:waka-->
