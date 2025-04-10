@@ -12,9 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 5 mins
 
-No activity tracked
+Dart   5 mins          ███████████████████████░░   91.70 %
+YAML   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
 ```
 
 <!--END_SECTION:waka-->
