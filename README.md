@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 26 mins
+Total Time: 12 hrs 14 mins
 
-MDX           3 hrs 10 mins   ███████▓░░░░░░░░░░░░░░░░░   30.23 %
-Astro         2 hrs 56 mins   ███████░░░░░░░░░░░░░░░░░░   27.98 %
-TypeScript    1 hr 34 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
-HTML          1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
-CSS           34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+Astro         4 hrs 30 mins   ████████▓░░░░░░░░░░░░░░░░   34.86 %
+MDX           3 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   24.54 %
+TypeScript    1 hr 44 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
+HTML          1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+Other         42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
 ```
 
 <!--END_SECTION:waka-->
