@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 33 mins
+Total Time: 4 hrs 52 mins
 
-YAML              2 hrs 15 mins   ████████▓░░░░░░░░░░░░░░░░   34.69 %
-Astro             1 hr 43 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
-Other             57 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
-TypeScript        28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
-TOML              25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+YAML              2 hrs 15 mins   █████████░░░░░░░░░░░░░░░░   36.36 %
+Other             1 hr 19 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.45 %
+Astro             53 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 %
+TypeScript        28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+TOML              25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
 ```
 
 <!--END_SECTION:waka-->
