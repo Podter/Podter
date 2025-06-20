@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 16 mins
+Total Time: 10 hrs 53 mins
 
-TypeScript   5 hrs 3 mins    ████████████████████████░   96.04 %
-Mermaid      11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript   9 hrs 22 mins   █████████████████████▓░░░   86.04 %
+Docker       28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+JSON         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Mermaid      11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Text         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
