@@ -12,13 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 15 mins
+Total Time: 0 secs
 
-TypeScript   1 hr 52 mins    ████████████████████▓░░░░   82.97 %
-Docker       10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-TOML         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-Bash         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Text         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
