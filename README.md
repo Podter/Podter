@@ -12,9 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 28 mins
 
-No activity tracked
+JSON              15 mins         █████████████▓░░░░░░░░░░░   54.92 %
+TypeScript        9 mins          ████████▓░░░░░░░░░░░░░░░░   34.50 %
+mcfunction        2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+Java Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Git Config        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
