@@ -12,11 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 21 mins
+Total Time: 0 secs
 
-TypeScript   1 hr 21 mins    ███████████████████████░░   92.60 %
-Other        6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other   6 mins          █████████████████████████   99.68 %
+YAML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
