@@ -12,12 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 45 mins
+Total Time: 39 mins
 
-HTML          2 hrs 31 mins   ███████████████████████░░   91.50 %
-CSS           12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-Image (svg)   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TOML   39 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
