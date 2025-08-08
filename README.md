@@ -12,9 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 39 mins
+Total Time: 43 mins
 
-TOML   39 mins         █████████████████████████   100.00 %
+TOML   39 mins         ██████████████████████▓░░   90.26 %
+JSON   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
 ```
 
 <!--END_SECTION:waka-->
