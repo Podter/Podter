@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 13 mins
+Total Time: 3 hrs 21 mins
 
-Rust              58 mins         ███████▓░░░░░░░░░░░░░░░░░   31.15 %
-Other             56 mins         ███████▒░░░░░░░░░░░░░░░░░   29.64 %
-TypeScript        49 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.19 %
-Java Properties   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-YAML              7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+Rust              1 hr 7 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.14 %
+TypeScript        1 hr 4 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.16 %
+Other             56 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.03 %
+Docker            39 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
+Java Properties   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
 ```
 
 <!--END_SECTION:waka-->
