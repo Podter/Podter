@@ -14,8 +14,11 @@
 ```txt
 Total Time: 19 mins
 
-TypeScript   15 mins         ████████████████████▓░░░░   82.65 %
-XML          3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
+JSON                               8 mins          ███████████░░░░░░░░░░░░░░   44.14 %
+PowerShell                         5 mins          ███████▒░░░░░░░░░░░░░░░░░   29.27 %
+XML                                3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
+Microsoft Visual Studio Solution   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Inno Setup                         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 ```
 
 <!--END_SECTION:waka-->
