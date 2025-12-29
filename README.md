@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 19 mins
+Total Time: 34 mins
 
-JSON                               8 mins          ███████████░░░░░░░░░░░░░░   44.14 %
-PowerShell                         5 mins          ███████▒░░░░░░░░░░░░░░░░░   29.27 %
-XML                                3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
-Microsoft Visual Studio Solution   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Inno Setup                         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Python                             15 mins         ███████████░░░░░░░░░░░░░░   43.58 %
+JSON                               8 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.24 %
+PowerShell                         5 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
+XML                                3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
+Microsoft Visual Studio Solution   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
