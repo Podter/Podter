@@ -12,11 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 28 mins
+Total Time: 4 mins
 
-Bash   23 mins         ████████████████████▓░░░░   82.26 %
-JSON   4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
-Rust   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+JSON   4 mins          ██████████████████████▒░░   89.65 %
+Rust   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
 ```
 
 <!--END_SECTION:waka-->
