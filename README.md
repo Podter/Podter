@@ -12,10 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 mins
+Total Time: 0 secs
 
-JSON   4 mins          ██████████████████████▒░░   89.65 %
-Rust   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
