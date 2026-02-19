@@ -12,9 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 22 mins
 
-No activity tracked
+Markdown   12 mins               █████████████▓░░░░░░░░░░░   55.29 %
+Svelte     9 mins                ██████████░░░░░░░░░░░░░░░   40.54 %
+JSON       0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Other      0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
