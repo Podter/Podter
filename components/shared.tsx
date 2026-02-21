@@ -13,6 +13,9 @@ export const THEME = {
   },
 };
 
+export const assetUrl = (path: string, branch: string) =>
+  `https://raw.githubusercontent.com/Podter/Podter/${branch}/${path}`;
+
 export function Div(props: ComponentProps<"div"> & { align?: string }) {
   return <div {...props} />;
 }

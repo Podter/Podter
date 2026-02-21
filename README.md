@@ -4,22 +4,11 @@
 
 ---
 
-<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?bg_color=171717&amp;text_color=d4d4d4&amp;icon_color=d4d4d4&amp;title_color=fafafa&amp;ring_color=fafafa&amp;hide_border=true&amp;border_radius=0&amp;username=Podter&amp;show_icons=true&amp;count_private=true"/><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?bg_color=f5f5f5&amp;text_color=404040&amp;icon_color=404040&amp;title_color=0a0a0a&amp;ring_color=0a0a0a&amp;hide_border=true&amp;border_radius=0&amp;username=Podter&amp;show_icons=true&amp;count_private=true"/><img alt="GitHub stats" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?bg_color=f5f5f5&amp;text_color=404040&amp;icon_color=404040&amp;title_color=0a0a0a&amp;ring_color=0a0a0a&amp;hide_border=true&amp;border_radius=0&amp;username=Podter&amp;show_icons=true&amp;count_private=true"/></picture><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?bg_color=171717&amp;text_color=d4d4d4&amp;icon_color=d4d4d4&amp;title_color=fafafa&amp;ring_color=fafafa&amp;hide_border=true&amp;border_radius=0&amp;username=Podter&amp;layout=compact&amp;langs_count=8&amp;card_width=320"/><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?bg_color=f5f5f5&amp;text_color=404040&amp;icon_color=404040&amp;title_color=0a0a0a&amp;ring_color=0a0a0a&amp;hide_border=true&amp;border_radius=0&amp;username=Podter&amp;layout=compact&amp;langs_count=8&amp;card_width=320"/><img alt="Top languages" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?bg_color=f5f5f5&amp;text_color=404040&amp;icon_color=404040&amp;title_color=0a0a0a&amp;ring_color=0a0a0a&amp;hide_border=true&amp;border_radius=0&amp;username=Podter&amp;layout=compact&amp;langs_count=8&amp;card_width=320"/></picture></div>
+<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Podter/Podter/output/stats-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Podter/Podter/output/stats-light.svg"/><img alt="GitHub stats" height="200px" align="center" src="https://raw.githubusercontent.com/Podter/Podter/output/stats-light.svg"/></picture><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Podter/Podter/output/top-langs-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Podter/Podter/output/top-langs-light.svg"/><img alt="Top languages" height="200px" align="center" src="https://raw.githubusercontent.com/Podter/Podter/output/top-langs-light.svg"/></picture></div>
 
 <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Podter/Podter/output/snake-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Podter/Podter/output/snake-light.svg"/><img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Podter/Podter/output/snake-light.svg"/></picture></div>
 
 <div align="left">
 <!--START_SECTION:waka-->
-
-```txt
-Total Time: 5 hrs 44 mins
-
-Typescript   2 hrs 1 mins          ████████▓░░░░░░░░░░░░░░░░   35.29 %
-TSX          1 hrs 40 mins         ███████▒░░░░░░░░░░░░░░░░░   28.99 %
-CSS          0 hrs 23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-JSX          0 hrs 18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Markdown     0 hrs 16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-```
-
 <!--END_SECTION:waka-->
 </div>
