@@ -10,5 +10,16 @@
 
 <div align="left">
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 5 hrs 44 mins
+
+Typescript   2 hrs 1 mins          ████████▓░░░░░░░░░░░░░░░░   35.29 %
+TSX          1 hrs 40 mins         ███████▒░░░░░░░░░░░░░░░░░   28.99 %
+CSS          0 hrs 23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+JSX          0 hrs 18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Markdown     0 hrs 16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+```
+
 <!--END_SECTION:waka-->
 </div>
