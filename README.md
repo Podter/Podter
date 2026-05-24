@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 20 hrs 7 mins
+Total Time: 10 hrs 13 mins
 
-C#               7 hrs 38 mins         █████████▒░░░░░░░░░░░░░░░   37.99 %
-Rust             4 hrs 14 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.04 %
-YAML             1 hrs 15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-XML              1 hrs 14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-Markdown         1 hrs 10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+Rust             4 hrs 8 mins          ██████████░░░░░░░░░░░░░░░   40.53 %
+C#               3 hrs 29 mins         ████████▓░░░░░░░░░░░░░░░░   34.11 %
+Typescript       0 hrs 54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
+Json             0 hrs 17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Plist            0 hrs 16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->
