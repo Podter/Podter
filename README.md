@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 hrs 15 mins
+Total Time: 10 hrs 58 mins
 
-Rust             6 hrs 35 mins         ████████████▒░░░░░░░░░░░░   49.70 %
-C#               3 hrs 29 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.28 %
-Typescript       0 hrs 48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
-TOML             0 hrs 31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-Unknown          0 hrs 22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Rust             5 hrs 13 mins         ████████████░░░░░░░░░░░░░   47.68 %
+C#               3 hrs 29 mins         ████████░░░░░░░░░░░░░░░░░   31.78 %
+Typescript       0 hrs 39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+TOML             0 hrs 29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+Unknown          0 hrs 20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:waka-->
