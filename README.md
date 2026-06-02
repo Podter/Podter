@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hrs 13 mins
+Total Time: 0 hrs 11 mins
 
-Rust         0 hrs 31 mins         ██████████▓░░░░░░░░░░░░░░   42.78 %
-TOML         0 hrs 14 mins         █████░░░░░░░░░░░░░░░░░░░░   19.45 %
-Docker       0 hrs 10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
-Unknown      0 hrs 6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-Typescript   0 hrs 2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Unknown      0 hrs 6 mins          ███████████████░░░░░░░░░░   59.62 %
+Javascript   0 hrs 3 mins          ██████░░░░░░░░░░░░░░░░░░░   23.66 %
+Bash         0 hrs 1 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+Json         0 hrs 0 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Markdown     0 hrs 0 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
