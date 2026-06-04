@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 hrs 11 mins
+Total Time: 0 hrs 15 mins
 
-Unknown      0 hrs 6 mins          ███████████████░░░░░░░░░░   59.62 %
-Javascript   0 hrs 3 mins          ██████░░░░░░░░░░░░░░░░░░░   23.66 %
-Bash         0 hrs 1 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
-Json         0 hrs 0 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Markdown     0 hrs 0 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Unknown      0 hrs 6 mins          ██████████▓░░░░░░░░░░░░░░   42.14 %
+Json         0 hrs 5 mins          ████████░░░░░░░░░░░░░░░░░   31.66 %
+Javascript   0 hrs 3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
+Bash         0 hrs 1 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+Markdown     0 hrs 0 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
