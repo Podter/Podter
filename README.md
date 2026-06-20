@@ -12,11 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 hrs 20 mins
+Total Time: 0 hrs 0 mins
 
-Text         0 hrs 16 mins         ███████████████████▒░░░░░   77.65 %
-Json         0 hrs 3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
-Typescript   0 hrs 1 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
