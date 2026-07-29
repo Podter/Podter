@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 31 hrs 28 mins
+Total Time: 33 hrs 2 mins
 
-Typescript        9 hrs 45 mins         ███████▓░░░░░░░░░░░░░░░░░   30.98 %
-Rust              9 hrs 39 mins         ███████▓░░░░░░░░░░░░░░░░░   30.67 %
-TSX               3 hrs 52 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
-Json              2 hrs 47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-TOML              1 hrs 6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Typescript        12 hrs 26 mins        █████████▒░░░░░░░░░░░░░░░   37.66 %
+Rust              9 hrs 45 mins         ███████▒░░░░░░░░░░░░░░░░░   29.53 %
+Json              2 hrs 46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+Bash              1 hrs 34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+Markdown          1 hrs 28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
 ```
 
 <!--END_SECTION:waka-->
