@@ -12,13 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 14 hrs 45 mins
+Total Time: 0 hrs 0 mins
 
-TSX                4 hrs 5 mins          ███████░░░░░░░░░░░░░░░░░░   27.74 %
-Typescript         3 hrs 23 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
-PHP                3 hrs 20 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.57 %
-Json               1 hrs 38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
-Markdown           0 hrs 42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
