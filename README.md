@@ -12,12 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 hrs 2 mins
+Total Time: 0 hrs 0 mins
 
-Python     0 hrs 1 mins          ███████████████████████▒░   93.55 %
-TOML       0 hrs 0 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Unknown    0 hrs 0 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Markdown   0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
